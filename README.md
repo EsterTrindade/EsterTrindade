@@ -1,6 +1,7 @@
 ## Olá! eu sou Ester Trindade 👋
 
-Tenho 17 anos e atualmente estou cursando o 3° ano do ensino médio. Tenho um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.
+Atualmente estou cursando o 3° ano do ensino médio e um curso Técnico de informatica para a internet (Full stack | mobile) no SENAC-SP.
+Sempre tive um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.
 
 <!--
 **EsterTrindade/EsterTrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
