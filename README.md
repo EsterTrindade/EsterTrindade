@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+Sejam+Bem++-+vindos!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <p1>ESTER TRINDADE</p1>
 </div>
 
 Atualmente estou cursando o 3° ano do ensino médio e um curso Técnico de informatica para a internet (Full stack | mobile) no SENAC-SP.
