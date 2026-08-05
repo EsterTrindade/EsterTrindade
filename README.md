@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>ESTER TRINDADE</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff4d4d&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+sou+Ester%C3%A3+Trindade+%F0%9F%91%8B;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
+
 </div>
 <br>
 Atualmente estou cursando ensino superior técnologo em gestão de segurança e defesa cibernética na UNINTER e buscando uma oportunidade de, então, estágiar na área de TI.
