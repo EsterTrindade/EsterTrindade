@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+sou+Ester+Trindade+%F0%9F%91%8B;Futura+Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=EsterTrindade&style=for-the-badge&color=BF00FF&label=Visitas+ao+perfil"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EsterTrindade&style=for-the-badge&color=BF00FF&label=Visitas+ao+perfil"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
 🇧🇷 | Atualmente estou cursando ensino superior técnologo em gestão de segurança e defesa cibernética na UNINTER e buscando uma oportunidade de, então, estágiar na área de TI.
