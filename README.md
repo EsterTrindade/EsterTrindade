@@ -17,7 +17,7 @@ I have always had a strong interest in technology and am looking for opportuniti
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
 
-## 💡 Sobre Mim
+## 💡🇧🇷 Sobre Mim
 
 > Tenho 19 anos e moro em **Diadema- SP**. cursando **Gestão da Tecnologia de Segurança e defesa cibernética** pela **UNINTER**.
 
@@ -30,7 +30,7 @@ Estou em busca da minha primeira oportunidade como **Estágiaria de TI**, com o 
 📫 Contato:                  estertbatista@gmail.com
 ```
 
-## 💡 About Me
+## 💡🇺🇸 About Me
 
 > I am 19 years old, live in **Diadema, SP**, and am pursuing a degree in **Security Technology Management and Cyber ​​Defense** at **UNINTER**.
 
