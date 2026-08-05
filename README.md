@@ -1,7 +1,7 @@
 <div align="center">
   <p1>ESTER TRINDADE</p1>
 </div>
-
+<br>
 Atualmente estou cursando o 3° ano do ensino médio e um curso Técnico de informatica para a internet (Full stack | mobile) no SENAC-SP.
 Sempre tive um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.
 
