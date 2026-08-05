@@ -4,7 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
 🇧🇷 | Atualmente estou cursando ensino superior técnologo em gestão de segurança e defesa cibernética na UNINTER e buscando uma oportunidade de, então, estágiar na área de TI.
-Sempre tive um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.<br>
+Sempre tive um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.
+
+<br><br>
 
 🇺🇸 | I am currently pursuing a higher education degree in Cybersecurity Management and Defense at UNINTER and am seeking an internship opportunity in the IT field.
 I have always had a strong interest in technology and am looking for opportunities to develop my skills in this area.
