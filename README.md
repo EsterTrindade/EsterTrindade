@@ -1,5 +1,5 @@
 <div align="center">
-  <p5>ESTER TRINDADE</p5>
+  <h1>ESTER TRINDADE</h1>
 </div>
 <br>
 Atualmente estou cursando o 3° ano do ensino médio e um curso Técnico de informatica para a internet (Full stack | mobile) no SENAC-SP.
