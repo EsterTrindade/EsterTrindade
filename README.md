@@ -13,6 +13,20 @@ I have always had a strong interest in technology and am looking for opportuniti
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
 
+## 💡 Sobre Mim
+
+> Tenho 19 anos e moro em **Diadema- SP**. cursando **Gestão da Tecnologia de Segurança e defesa cibernética** pela **UNINTER**.
+
+Estou em busca da minha primeira oportunidade como **Estágiaria de TI**, com o objetivo de evoluir e me tornar uma **especialista em segurança da informação**. Gosto de resolver problemas, aprender novas tecnologias e aplicar boas práticas de desenvolvimento no dia a dia.
+
+```
+🛠 Atualmente desenvolvendo:  Criando um Assistente de Delivery com AWS Step Functions e Bedrock
+🌱 Aprendendo:               Investigação de Crimes Digitais, Direitos e novas tecnologias e computação florense
+💬 Posso falar sobre:        Front-end e Back-end
+📫 Contato:                  estertbatista@gmail.com
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
+
 ## Estou Aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
