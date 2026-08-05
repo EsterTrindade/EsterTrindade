@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
+## Estatísticas do GitHub:
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EsterTrindade&show_icons=true&theme=dark&bg_color=BF00FF&title_color=BF00FF&icon_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterTrindade&layout=compact&theme=dark&bg_color=BF00FF&title_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false" />
+  
+</div>
+
+
+
 ## CONTATO:
 
 <div>
