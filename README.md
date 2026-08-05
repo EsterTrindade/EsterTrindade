@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 
 ## Estatísticas do GitHub:
 <div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=esterTrindade&show_icons=true&theme=dark&bg_color=BF00FF&title_color=BF00FF&icon_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterTrindade&layout=compact&theme=dark&bg_color=BF00FF&title_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=estertrindade&show_icons=true&theme=dark&bg_color=BF00FF&title_color=BF00FF&icon_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estertrindade&layout=compact&theme=dark&bg_color=BF00FF&title_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false"/>
 </div>
-
-
 
 ## CONTATO:
 
