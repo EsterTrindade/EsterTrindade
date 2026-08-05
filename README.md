@@ -2,7 +2,7 @@
   <h1>ESTER TRINDADE</h1>
 </div>
 <br>
-Atualmente estou cursando ensino superior técnologo em gestão de segurança e defesa cibernética na UNINTER e uma oportunidade de, então, estágiar na área de TI.
+Atualmente estou cursando ensino superior técnologo em gestão de segurança e defesa cibernética na UNINTER e buscando uma oportunidade de, então, estágiar na área de TI.
 Sempre tive um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.
 
 <!--
