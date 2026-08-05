@@ -30,11 +30,24 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 
-## Estatísticas do GitHub:
-<div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eaua-stack&show_icons=true&theme=dark&bg_color=BF00FF&title_color=BF00FF&icon_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aua-stack&layout=compact&theme=dark&bg_color=BF00FF&title_color=BF00FF&text_color=ffffff&border_color=e11111&hide_border=false"/>
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaua-stack&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff&border_color=e11111&hide_border=false" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-stack&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff4d4d&text_color=ffffff&border_color=e11111&hide_border=false" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaua-stack&theme=dark&background=0d0d0d&ring=e11111&fire=ff4d4d&currStreakLabel=ff4d4d&border=e11111" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaua-stack&theme=react-dark&bg_color=0d0d0d&color=ff4d4d&line=e11111&point=ffffff&hide_border=true" width="90%"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e11111&height=2&width=100%25"/>
 
 ## CONTATO:
 
