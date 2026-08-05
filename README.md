@@ -38,13 +38,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsterTrindade&theme=react-dark&bg_color=0d0d0d&color=BF00FF&line=BF00FF&point=ffffff&hide_border=true" width="90%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e11111&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
 
 ## CONTATO:
 
 <div>
-<a href="https://br.linkedin.com/in/dev-estertindade" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/hadsmidia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/EsterTrindade"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://br.linkedin.com/in/dev-estertindade" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/hadsmidia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/EsterTrindade"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div> 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/EsterTrindade?style=social)
