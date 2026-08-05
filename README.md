@@ -2,7 +2,7 @@
   
   <img width="100%" src="BannerLinkedlnGithub.png" alt="Capa do perfil da Ester Trindade"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=28&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+sou+Ester+Trindade+%F0%9F%91%8B;Futura+Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=28&center=true&vCenter=true&width=1000&lines=Olá+sou+Ester+Trindade+%F0%9F%91%8B+Hello+I+am+Ester+Trindade+%F0%9F%91%8B;Futura+Especialista+em+Cibersegurança;Future+Especialist+in+Cybersecurity;Apaixonada+por+Tecnologia+e+Inovação;Passionate+about+Technology+and+Innovation;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
   
 </div>
 
