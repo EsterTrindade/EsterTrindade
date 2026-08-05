@@ -3,7 +3,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
-
 🇧🇷 | Atualmente estou cursando ensino superior técnologo em gestão de segurança e defesa cibernética na UNINTER e buscando uma oportunidade de, então, estágiar na área de TI.
 Sempre tive um grande interesse em tecnologia e estou buscando oportunidades para desenvolver minhas habilidades nessa área.
 
