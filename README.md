@@ -23,12 +23,26 @@ I have always had a strong interest in technology and am looking for opportuniti
 
 Estou em busca da minha primeira oportunidade como **Estágiaria de TI**, com o objetivo de evoluir e me tornar uma **especialista em segurança da informação**. Gosto de resolver problemas, aprender novas tecnologias e aplicar boas práticas de desenvolvimento no dia a dia.
 
+## 💡 About Me
+
+> I am 19 years old, live in **Diadema, SP**, and am pursuing a degree in **Security Technology Management and Cyber ​​Defense** at **UNINTER**.
+
+I am seeking my first opportunity as an **IT Intern**, with the goal of growing and becoming an **Information Security Specialist**. I enjoy solving problems, learning new technologies, and applying development best practices in my daily work.
+
 ```
 🛠 Atualmente desenvolvendo:  Criando um Assistente de Delivery com AWS Step Functions e Bedrock
 🌱 Aprendendo:               Investigação de Crimes Digitais, Direitos e novas tecnologias e computação florense
 💬 Posso falar sobre:        Front-end e Back-end
 📫 Contato:                  estertbatista@gmail.com
 ```
+
+```
+🛠 Currently developing: Creating a Delivery Assistant with AWS Step Functions and Bedrock
+🌱 Learning:            Digital Crime Investigation, Rights and New Technologies, and Digital Forensics.
+💬 I can talk about:    Front-end and Back-end
+📫 Contact:             estertbatista@gmail.com
+```
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=2&width=100%25"/>
 
 ## Estou Aprendendo:
